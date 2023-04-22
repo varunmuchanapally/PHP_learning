@@ -1,2 +1,2 @@
 # PHP_learning
-This is not a project. they are php forms i hae written while learning php
+This is not a project. these are forms i have written while learning php.
